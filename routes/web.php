@@ -13,7 +13,7 @@
 
 Route::get('/','PublicController@index');
 
-//homepage search
+//homepage search222
 
 Route::get('search', 'PublicController@homepage_search');
 Route::get('seacrchable', 'PublicController@filter');
